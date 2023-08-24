@@ -1,2 +1,1 @@
-# dinesh_git
-this repo was created for learner to dinesh
+This is my blog repository from hasnode. when i posted the blog automatically backup her in github
