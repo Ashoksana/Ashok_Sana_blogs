@@ -1,8 +1,8 @@
 ---
-title: "Bazel Tutorial guide for java application"
+title: "Exploring Bazel: How I Built a High-Performance Java Calculator"
 datePublished: Wed Sep 20 2023 07:50:18 GMT+0000 (Coordinated Universal Time)
 cuid: clmrg25gq000509mgem3m782e
-slug: bazel-tutorial-guide-for-java-application
+slug: exploring-bazel-how-i-built-a-high-performance-java-calculator
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695196167703/e6df42b9-0d19-4ffe-a99f-67397b097f4b.png
 tags: ubuntu, bazel, java, 90daysofdevops
 
