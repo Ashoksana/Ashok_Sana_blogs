@@ -65,39 +65,6 @@ $ansible-galaxy collection install community.aws
 
 Certainly! Below is a template for a blog post on using Ansible to create, delete, and stop EC2 instances on AWS. Feel free to customize it based on your specific preferences and details.
 
----
-
-# **Title: Automating AWS EC2 Management with Ansible**
-
-## **Introduction**
-
-In today's rapidly evolving cloud computing landscape, automation is key to efficiently manage resources. AWS (Amazon Web Services) provides powerful cloud infrastructure, and Ansible, an open-source automation tool, can simplify the management of EC2 instances. This blog post will guide you through using Ansible to automate the creation, deletion, and stopping of EC2 instances on AWS.
-
-## **Prerequisites**
-
-Before you begin, make sure you have the following:
-
-* AWS account with access key and secret key
-    
-* Ansible installed on your local machine
-    
-* AWS CLI installed for Ansible AWS module support
-    
-
-## **Setting Up AWS Credentials**
-
-To interact with AWS services, Ansible requires AWS credentials. Set up your credentials using the AWS CLI:
-
-```yaml
-bashCopy codeaws configure
-```
-
-Enter your access key, secret key, region, and output format as prompted.
-
-## **Ansible Playbook for EC2 Instance Creation**
-
-Create an Ansible playbook (e.g., `create_ec2.yml`) for launching an EC2 instance:
-
 ```yaml
 ---
 - name: Create EC2 Instance
